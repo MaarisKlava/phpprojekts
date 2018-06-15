@@ -1,0 +1,21 @@
+body{
+	font-family:Tahoma;
+	font-size:12px;
+}
+
+thead>tr>th{
+	font-weight:bold;
+}
+
+tr td, tr th{
+	border:1px solid #000000;
+	padding: 3px;
+}
+
+.radioText{
+	text-align: left !important;
+}
+
+.button{
+	text-align: right;
+}
